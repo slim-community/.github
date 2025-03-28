@@ -4,6 +4,11 @@
 
 This is a community organization for users of SLiM.  It contains repositories for projects related to SLiM, and hosts discussions among SLiM users.  We welcome members from the SLiM community who want to get involved, contribute a project, or just feel like chatting.
 
+## Join the Organization
+
+To become a member of the slim-community organization, please fill out our [membership request form](https://docs.google.com/forms/d/e/1FAIpQLSfL2sgL2_C8mXKMkj4JGXVJKGx_4mMreRsMmZmRtm6YMJjE0A/viewform?usp=dialog). We should send an invite to become a member shortly after.
+
+## Further Resources
 There are some other sites you should be aware of:
 
 * The [SLiM home page](https://messerlab.org/slim/), part of the [Messer Lab](https://messerlab.org) website.  This is where you can find manuals, downloads, announcements, information about the [SLiM Workshop](https://messerlab.org/slim/#Workshops), videos about SLiM, and other information provided by Ben Haller and the Messer Lab.

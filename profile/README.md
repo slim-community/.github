@@ -7,9 +7,9 @@ This is a community organization for users of SLiM.  It contains repositories fo
 ## Join the Organization
 
 <div align="center">
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfL2sgL2_C8mXKMkj4JGXVJKGx_4mMreRsMmZmRtm6YMJjE0A/viewform?usp=dialog" style="display: inline-block; background-color: #0366d6; color: white; padding: 20px 40px; text-decoration: none; border-radius: 10px; font-weight: bold; margin: 20px 0; font-size: 22px; box-shadow: inset -2px -2px 4px rgba(0,0,0,0.2), inset 2px 2px 4px rgba(255,255,255,0.2); text-shadow: 1px 1px 2px rgba(0,0,0,0.2); transition: all 0.2s ease;">
-    Request to Join
-  </a>
+
+[![Request to Join](https://img.shields.io/badge/Request_to_Join-blue?style=flat-square&logo=github&logoColor=white&scale=10)](https://docs.google.com/forms/d/e/1FAIpQLSfL2sgL2_C8mXKMkj4JGXVJKGx_4mMreRsMmZmRtm6YMJjE0A/viewform?usp=dialog)
+
 </div>
 
 To become a member of the slim-community organization, 

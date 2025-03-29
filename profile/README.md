@@ -4,11 +4,13 @@
 
 This is a community organization for users of SLiM.  It contains repositories for projects related to SLiM, and hosts discussions among SLiM users.  We welcome members from the SLiM community who want to get involved, contribute a project, or just feel like chatting.
 
-## Join the Organization
+<!-- ## Join the Organization -->
 
 <div align="center">
 
-[![Request to Join](https://img.shields.io/badge/Request_to_Join-blue?style=flat-square&logo=github&logoColor=white&scale=10)](https://docs.google.com/forms/d/e/1FAIpQLSfL2sgL2_C8mXKMkj4JGXVJKGx_4mMreRsMmZmRtm6YMJjE0A/viewform?usp=dialog)
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfL2sgL2_C8mXKMkj4JGXVJKGx_4mMreRsMmZmRtm6YMJjE0A/viewform?usp=dialog">
+  <img src="https://img.shields.io/badge/Request_to_Join-blue?style=flat-square" width="400" height="75">
+</a>
 
 </div>
 

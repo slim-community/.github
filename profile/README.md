@@ -8,9 +8,13 @@ This is a community organization for users of SLiM.  It contains repositories fo
 
 <div align="center">
 
+<br/><br/>
+
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfL2sgL2_C8mXKMkj4JGXVJKGx_4mMreRsMmZmRtm6YMJjE0A/viewform?usp=dialog">
-  <img src="https://img.shields.io/badge/Request_to_Join-blue?style=flat-square" width="400" height="75">
+  <img src="https://img.shields.io/badge/Request_to_Join-blue?style=plastic" width="390" height="80">
 </a>
+
+<br/><br/>
 
 </div>
 
